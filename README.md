@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coderonimo AKA Jani Aalto.
 - 👀 I’m interested in coding. 
 - 🌱 I’m currently learning and doing a lot of coding stuff. 
-- 💞️ I’m looking to collaborate on apps and games development. 
+- 💞️ I’m looking to collaborate on data analytics apps and games development. 
 - 📫 You can reach me through my website CODERONIMO.COM
 
 CHEERS! :)))
